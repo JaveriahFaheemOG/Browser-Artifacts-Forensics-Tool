@@ -190,10 +190,8 @@ If the tool fails to decrypt stored passwords, it's likely due to the browser's 
   The tool is designed to be non-intrusive, meaning it doesn’t alter the data it extracts. However, always ensure you are working with copies of the data (for example, cloned disks or disk images) to avoid tampering with evidence.
 
 ## **Authors**
-Abubakkar Sharif - FAST NUCES
+- Abubakkar Sharif FAST NUCES
+- Javeriah Faheem  FAST NUCES
+- Sabreena Azhar   FAST NUCES
+- Umar Zeb         FAST NUCES
 
-Javeriah Faheem  - FAST NUCES
-
-Sabreena Azhar   - FAST NUCES
-
-Umar Zeb         - FAST NUCES
