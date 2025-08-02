@@ -191,6 +191,9 @@ If the tool fails to decrypt stored passwords, it's likely due to the browser's 
 
 ## **Authors**
 Abubakkar Sharif - FAST NUCES
+
 Javeriah Faheem  - FAST NUCES
+
 Sabreena Azhar   - FAST NUCES
+
 Umar Zeb         - FAST NUCES
