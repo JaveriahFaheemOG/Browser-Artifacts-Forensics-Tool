@@ -1,6 +1,6 @@
 ## **Browser Artifacts Forensics Tool for Privacy-Focused Browsers** ##
 
-# Disclaimer
+## **Disclaimer**
 
 This repository is intended for **educational and research purposes only**.  
 The tools and scripts provided are designed for use in **controlled, authorized environments**.  
@@ -189,3 +189,8 @@ If the tool fails to decrypt stored passwords, it's likely due to the browser's 
 * **Data Integrity**:  
   The tool is designed to be non-intrusive, meaning it doesn’t alter the data it extracts. However, always ensure you are working with copies of the data (for example, cloned disks or disk images) to avoid tampering with evidence.
 
+## **Authors**
+Abubakkar Sharif - FAST NUCES
+Javeriah Faheem  - FAST NUCES
+Sabreena Azhar   - FAST NUCES
+Umar Zeb         - FAST NUCES
